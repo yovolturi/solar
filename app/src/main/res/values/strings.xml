@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplicationsolar</string>
+    <string name="my_name">นายวทัญญู อ่วมเมี่ยง 055</string>
+    <string name="my_name2">นายปัจจุบัน พานิช 081</string>
+    <string name="my_name3">นายก่อโชค ชิงพงสานนท์ 073</string>
+    <string name="my_name4">นาย นิธิกันต์ นนทรีย์ 090</string>
+    <string name="app_major">หลักสูตรวิทยาการคอมพิวเตอร์</string>
+    <string name="app_university">มหาวิทยาลัยสวนดุสิต</string>
+    <string name="app_mobile">ติดต่องาน Mobile no.:0991201075</string>
+    <string name="app_facebook">facebook:https://www.facebook.com/yo.ouammiang</string>
+</resources>
